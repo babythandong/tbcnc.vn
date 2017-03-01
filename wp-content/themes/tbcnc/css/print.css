@@ -1,0 +1,309 @@
+a {
+    color: #F03528;
+    text-decoration: none
+}
+
+a img {
+    border: 0
+}
+
+#comments_container,
+#header #banner-link,
+#header #banner-nav,
+#header #header-menu,
+#header .skip,
+#user,
+h1.red-header {
+    display: none
+}
+
+#header a {
+    float: left
+}
+
+#left,
+#product_header,
+#right {
+    display: none;
+    float: left
+}
+
+.pricing .left,
+.right {
+    display: inline-block;
+    float: left
+}
+
+.button,
+.pricing input {
+    display: none
+}
+
+#airlock,
+#center {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    color: #000;
+    border-width: 0
+}
+
+#footer,
+#subfooter {
+    display: none
+}
+
+#footer a {
+    color: #77776E
+}
+
+h1 {
+    font-size: 1.5em
+}
+
+h2 {
+    font-size: 1.4em
+}
+
+h3 {
+    font-size: 1.3em
+}
+
+h4 {
+    font-size: 1.2em
+}
+
+h5 {
+    font-size: 1.1em
+}
+
+h6 {
+    font-size: 1em
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700
+}
+
+h1.red-header {
+    background: 0 0;
+    color: #000;
+    float: right;
+    margin-top: 2em
+}
+
+h1.red-header span.link {
+    display: none
+}
+
+.cols {
+    width: 100%;
+    overflow: hidden
+}
+
+.col {
+    width: 25%;
+    float: left;
+    margin-right: 15px;
+    border: 1px solid red
+}
+
+#paginator,
+#sort_header,
+ul.tabs {
+    display: none
+}
+
+#order-details table {
+    border-collapse: collapse
+}
+
+#line-items {
+    width: 100%
+}
+
+#order-details #line-items td,
+#order-details th {
+    color: #000;
+    border-bottom: 1px solid #ddd;
+    background-color: transparent
+}
+
+#order-details #line-items {
+    text-align: center
+}
+
+#order-details #line-items .amount {
+    text-align: right
+}
+
+#order-details #line-items .desc {
+    text-align: left
+}
+
+#order-details #line-items .pic {
+    display: none
+}
+
+#order-details h3 {
+    color: #000;
+    border-bottom: 1px solid #000
+}
+
+#order-details #totals,
+#order-details #transactions {
+    width: 100%;
+    margin-top: 2em
+}
+
+#order-details #totals th,
+#order-details #transactions th {
+    text-align: left
+}
+
+#order-details #totals td.amount,
+#order-details #transactions td.amount {
+    text-align: right
+}
+
+#order-details #status {
+    font-size: 1.4em;
+    font-weight: 700;
+    float: right
+}
+
+#order-details #payment,
+#order-details #shipping {
+    padding-left: 15px;
+    float: left
+}
+
+div#cart {
+    clear: left;
+    width: 590px
+}
+
+div#cart>ul {
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+
+div#cart>ul li a {
+    color: #f03528
+}
+
+div#cart #cart_header {
+    color: #77776e;
+    font-weight: 700;
+    padding: 4px 0
+}
+
+div#cart .cart-row {
+    border-bottom: solid 1px #ddd
+}
+
+div#cart #cart_header div,
+div#cart .cart-row div.cart-name,
+div#cart .cart-row div.cart-quantity,
+div#cart .cart-row div.cart-subtotal {
+    float: left;
+    padding: 5px;
+    margin: 0
+}
+
+div#cart .cart-row-backorder,
+div#cart .cart-row-partial {
+    background-color: #fcc
+}
+
+div#cart .stock-out {
+    color: #F03528
+}
+
+div#cart div.cart-name {
+    width: 300px
+}
+
+div#cart div.cart-name img.thumbnail {
+    float: left;
+    margin-right: 5px
+}
+
+div#cart div.cart-name img.rohs {
+    margin-top: 5px
+}
+
+div#cart div.cart-quantity {
+    width: 170px
+}
+
+div#cart div.cart-quantity form {
+    float: left;
+    padding-right: 5px
+}
+
+div#cart div.cart-quantity p.stock-numbers {
+    margin-top: 5px
+}
+
+div#cart div.cart-subtotal {
+    text-align: right;
+    width: 80px
+}
+
+div#cart div.cart-subtotal .gray {
+    color: #999
+}
+
+div#cart ul li.cart-name img {
+    margin-right: 4px
+}
+
+div#cart div#cart_footer {
+    clear: left;
+    display: block;
+    text-align: right;
+    padding: 10px 5px;
+    line-height: 1.5em;
+    width: auto;
+    margin: 0
+}
+
+div#cart div#cart_footer #cart_total {
+    font-size: 1.8em
+}
+
+#cart_footer #checkout.button {
+    font-size: 1.4em;
+    margin-bottom: .5em;
+    float: right
+}
+
+#cart_footer #internal_checkout.button {
+    clear: right;
+    float: right
+}
+
+#cart_footer #calculate_shipping {
+    float: left
+}
+
+div#cart div#cart_footer p.note {
+    margin: 0 0 35px;
+    width: 50%;
+    float: right;
+    clear: both;
+    text-align: justify
+}
+
+#move_all_to_wishlist,
+#remove_all {
+    float: left
+}
+
